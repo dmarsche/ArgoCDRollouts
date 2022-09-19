@@ -350,7 +350,7 @@ spec:
   ports:
     - appProtocol: http
       name: http
-      port: 8081
+      port: 81
       protocol: TCP
       targetPort: http
     - appProtocol: https
